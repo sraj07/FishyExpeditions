@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AutomaticAnimatedActor
+comment1.params=lL\ rL\ s
+comment1.target=AutomaticAnimatedActor(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=ani
+comment3.target=void\ setWalkRightAnimation(Animation)
+comment4.params=ani
+comment4.target=void\ setWalkLeftAnimation(Animation)
+comment5.params=a
+comment5.target=void\ setAnimation(Animation)
+comment6.params=ani
+comment6.target=void\ setRunRightAnimation(Animation)
+comment7.params=ani
+comment7.target=void\ setRunLeftAnimation(Animation)
+numComments=8

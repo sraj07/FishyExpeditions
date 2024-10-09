@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Fish
+comment1.params=iL2\ iBL\ prevScore
+comment1.target=Fish(boolean,\ boolean,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getScore()
+comment4.params=
+comment4.target=int\ getHealth()
+comment5.params=
+comment5.target=int\ getBreath()
+comment6.params=amount
+comment6.target=void\ increaseScore(int)
+comment7.params=amount
+comment7.target=void\ decreaseHealth(int)
+comment8.params=amount
+comment8.target=void\ decreaseBreath(int)
+comment9.params=
+comment9.target=void\ updateText()
+numComments=10

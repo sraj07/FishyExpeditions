@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Level3
+comment1.params=prevScore
+comment1.target=Level3(int)
+comment2.params=
+comment2.target=void\ buildWorld()
+comment3.params=coins
+comment3.target=void\ generateCoins(int)
+comment4.params=row\ col
+comment4.target=boolean\ isValidCoinPosition(int,\ int)
+comment5.params=
+comment5.target=void\ act()
+numComments=6
